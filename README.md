@@ -83,7 +83,7 @@ POST /analyze
 
 ```json
 {
-  "url": "https://www.bbc.com/news/technology-67171384"
+  "url": "https://www.bbc.com/news/articles/crklljyx6mzo"
 }
 ```
 
