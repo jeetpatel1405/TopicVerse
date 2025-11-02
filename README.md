@@ -105,10 +105,10 @@ POST /analyze
 
 | Source | Title | URL |
 |--------|-------|-----|
-| ⚔️ BBC | Defence of Donbas Town | [Read](https://www.bbc.com/news/world-europe) |
+| ⚔️ BBC | Defence of Donbas Town | [Read](https://www.bbc.com/news/articles/crklljyx6mzo) |
 | 🤖 TechCrunch | OpenAI Launches Two 'Open' AI Reasoning Models | [Read](https://techcrunch.com/2024/12/20/openai-launches-two-open-ai-reasoning-models/) |
-| 🗳️ NPR | Live U.S. Presidential Election Results | [Read](https://www.npr.org/elections) |
-| 🇨🇦 BBC | Canada's Carney Apology to Trump Highlights | [Read](https://www.bbc.com/news/world-us-canada) |
+| 🗳️ NPR | Live U.S. Presidential Election Results | [Read](https://apps.npr.org/2024-election-results/) |
+| 🇨🇦 BBC | Canada's Carney Apology to Trump Highlights | [Read](https://www.bbc.com/news/articles/cy4007deg2qo) |
 
 Click any sample link in the app to visualize instantly.
 
@@ -119,7 +119,7 @@ Click any sample link in the app to visualize instantly.
 Add a screenshot of your running app here:
 
 ```
-![TopicVerse Preview](./preview.png)
+![TopicVerse Preview](https://raw.githubusercontent.com/jeetpatel1405/TopicVerse/main/preview.png)
 ```
 
 ---
