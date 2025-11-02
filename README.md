@@ -116,8 +116,6 @@ Click any sample link in the app to visualize instantly.
 
 ## 📸 Preview
 
-Add a screenshot of your running app here:
-
 ![TopicVerse Preview](https://raw.githubusercontent.com/jeetpatel1405/TopicVerse/main/preview.png)
 
 ---
